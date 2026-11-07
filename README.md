@@ -5,6 +5,7 @@ Slamlin is a point-trick duel for two with handicap offers, hidden second cards,
 👉 View the game on BoardGameGeek:  
 https://boardgamegeek.com/boardgame/481943/slamlin
 
+Designer Diary: https://boardgamegeek.com/blog/16873/blogpost/192401/slamlin-my-first-trick-taking-design
 
 ## Repository Contents
 
